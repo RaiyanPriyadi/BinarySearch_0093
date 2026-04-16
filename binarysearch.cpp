@@ -6,7 +6,7 @@ int nPanjang;
 int x;
 
 //membuat function input
-void input()
+void input(
 {
     while (true)
     {
